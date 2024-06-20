@@ -29,5 +29,6 @@ def all_substrings(s: str):
 def main():
     print(all_substrings("ccd"))
 
+
 if __name__ == "__main__":
     main()
